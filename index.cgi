@@ -5,8 +5,7 @@ cgitb.enable()
 
 header = 'Content-Type: text/html\n\n'
 
-htmlHeader = """
-<!DOCTYPE html>
+htmlHeader = """<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -19,8 +18,7 @@ htmlHeader = """
     <h1>Python-powered Mad Libber <small>by Justin Wang</small></h1>
     <p class="divider"></p>"""
 
-htmlFooter = """
-  </body>
+htmlFooter = """  </body>
 </html>"""
 
 # templates
