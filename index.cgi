@@ -15,7 +15,7 @@ htmlHeader = """<!DOCTYPE html>
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    <h1>Python-powered Mad Libber <small>by Justin Wang</small></h1>
+    <h1>Python-powered Mad Libber <small>by Justin Jay Wang</small></h1>
     <p class="divider"></p>"""
 
 htmlFooter = """  </body>
