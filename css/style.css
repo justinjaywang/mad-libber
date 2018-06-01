@@ -24,7 +24,7 @@ body {
   color: #000;
 }
 * {
-  font: 12px/20px helvetica, arial, sans-serif;
+  font: 14px/21px helvetica, arial, sans-serif;
 }
 em {
   font-style: italic;
@@ -68,6 +68,5 @@ input.text, .sentence {
   cursor: pointer;
 }
 .submit:hover, button:hover {
-/*  background: #bbb;
-  color: #fff;*/
+  background: #ccc;
 }
